@@ -1,0 +1,14 @@
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\obj\Debug\VomARygonSpAce.csproj.CoreCompileInputs.cache
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\bin\Debug\VomARygonSpAce.exe.config
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\bin\Debug\VomARygonSpAce.exe
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\bin\Debug\VomARygonSpAce.pdb
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\obj\Debug\VomARygonSpAce.exe
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\obj\Debug\VomARygonSpAce.pdb
+C:\Users\rgarc\source\repos\VomARygonSpAce\VomARygonSpAce\obj\Debug\VomARygonSpAce.csprojAssemblyReference.cache
+C:\Work\VomARygonSpAce\VomARygonSpAce\obj\Debug\VomARygonSpAce.csprojAssemblyReference.cache
+C:\Work\VomARygonSpAce\VomARygonSpAce\obj\Debug\VomARygonSpAce.csproj.CoreCompileInputs.cache
+C:\Work\VomARygonSpAce\VomARygonSpAce\bin\Debug\SpaceGame.exe.config
+C:\Work\VomARygonSpAce\VomARygonSpAce\bin\Debug\SpaceGame.exe
+C:\Work\VomARygonSpAce\VomARygonSpAce\bin\Debug\SpaceGame.pdb
+C:\Work\VomARygonSpAce\VomARygonSpAce\obj\Debug\SpaceGame.exe
+C:\Work\VomARygonSpAce\VomARygonSpAce\obj\Debug\SpaceGame.pdb
